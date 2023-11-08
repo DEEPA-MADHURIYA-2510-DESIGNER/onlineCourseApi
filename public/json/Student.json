@@ -1,0 +1,201 @@
+[{
+        "id":"1001",
+        "name":"Deepika madhuriya",
+        "age": "25",
+        "gender": "female",
+        "image":  "https://robohash.org/hicveldicta.png",
+        "email": "deepikamadhuriya123@gmail.com",
+        "phoneno": "9319513114",
+        "Address": "z-145, Kirari, Nearby: Akash Model School, New Delhi- 110086",
+        "EnrolledCourse": [
+            {
+                "name": "Introduction of Html",
+                "Proficiency": "70%",
+                "duration": "8 weeks",
+                "CourseStatus": "on Progress",
+                "instructor": "John Doe"
+            },
+            {
+                "name": "Crash Course of React js",
+                "Proficiency": "40%",
+                "duration": "12 weeks",
+                "CourseStatus": "To be Continous",
+                "instructor": "Deepak"
+            },
+            {
+                "name": "Advancement of .Net",
+                "Proficiency": "60%",
+                "duration": "20 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "Surbhi"
+            }
+        ]
+    },
+    {
+        "id":"1002",
+        "name":"Ajit Kumar",
+        "age": "35",
+        "gender": "male",
+        "image":  "https://robohash.org/doloremquesintcorrupti.png",
+        "email": "ajitkumar@gmail.com",
+        "phoneno": "1452036987",
+        "Address": "z-115, Nearby: karol Bagh, New Delhi- 110005",
+        "EnrolledCourse": [
+            {
+                "name": "Introduction of Html",
+                "Proficiency": "50%",
+                "duration": "8 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "John Doe"
+            },
+            {
+                "name": "Introduction of Reactjs",
+                "Proficiency": "80%",
+                "duration": "12 weeks",
+                "CourseStatus": "To be Continous",
+                "instructor": "Deepak"
+            },
+            {
+                "name": "How to learn Graphic desinging",
+                "Proficiency": "30%",
+                "duration": "20 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "Surbhi"
+            }
+        ]
+    },
+    {
+        "id":"1003",
+        "name":"Deepak yadav",
+        "age": "20",
+        "gender": "male",
+        "image":  "https://robohash.org/consequunturautconsequatur.png",
+        "email": "Deepak@gmail.com",
+        "phoneno": "2315468795",
+        "Address": "Pocket.no-5, Nearby: rithal metro station, New Delhi- 110085",
+        "Enrolled_Course": [
+            {
+                "name": "Introduction of Html",
+                "Proficiency": "50%",
+                "duration": "8 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "John Doe"
+            },
+            {
+                "name": "Introduction of video Editing",
+                "Proficiency": "80%",
+                "duration": "12 weeks",
+                "CourseStatus": "To be Continous",
+                "instructor": "Deepak"
+            },
+            {
+                "name": "How to learn Graphic desinging",
+                "Proficiency": "30%",
+                "duration": "20 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "Surbhi"
+            }
+        ]
+    },
+    {
+        "id":"1004",
+        "name":"Ram Kumar",
+        "age": "40",
+        "gender": "male",
+        "image":  "https://robohash.org/facilisdignissimosdolore.png",
+        "email": "ram@gmail.com",
+        "phoneno": "2315468790",
+        "Address": "Pocket.no-5, Nearby: rithal metro station, New Delhi- 110085",
+        "EnrolledCourse": [
+            {
+                "name": "Introduction of Css",
+                "Proficiency": "50%",
+                "duration": "8 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "John Doe"
+            },
+            {
+                "name": "Introduction of video Editing",
+                "Proficiency": "80%",
+                "duration": "12 weeks",
+                "CourseStatus": "To be Continous",
+                "instructor": "Deepak"
+            },
+            {
+                "name": "How to learn Graphic desinging",
+                "Proficiency": "30%",
+                "duration": "20 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "Surbhi"
+            }
+        ]
+    },
+    {
+        "id":"1005",
+        "name":"Radha Kumari",
+        "age": "40",
+        "gender": "female",
+        "image":  "https://robohash.org/facilisdignissimosdolore.png",
+        "email": "radha2000@gmail.com",
+        "phoneno": "1452369874",
+        "Address": "Pocket.no-5, Nearby: Rohini East station, New Delhi- 110034",
+        "EnrolledCourse": [
+            {
+                "name": "Introduction of Css",
+                "Proficiency": "50%",
+                "duration": "8 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "John Doe"
+            },
+            {
+                "name": "Introduction of video Editing",
+                "Proficiency": "80%",
+                "duration": "12 weeks",
+                "CourseStatus": "To be Continous",
+                "instructor": "Deepak"
+            },
+            {
+                "name": "How to learn Motion Graphics",
+                "Proficiency": "30%",
+                "duration": "20 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "Surbhi"
+            }
+        ]
+    },
+    {
+        "id":"1006",
+        "name":"Anil Rao",
+        "age": "18",
+        "gender": "male",
+        "image":  "https://robohash.org/facilisdignissimosdolore.png",
+        "email": "anil2000@gmail.com",
+        "phoneno": "1546239874",
+        "Address": "Pocket.no-5, Nearby: Rohini East station, New Delhi- 110034",
+        "EnrolledCourse": [
+            {
+                "name": "Introduction of Css",
+                "Proficiency": "50%",
+                "duration": "8 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "John Doe"
+            },
+            {
+                "name": "Introduction of video Editing",
+                "Proficiency": "80%",
+                "duration": "12 weeks",
+                "CourseStatus": "To be Continous",
+                "instructor": "Deepak"
+            },
+            {
+                "name": "How to learn Motion Graphics",
+                "Proficiency": "30%",
+                "duration": "20 weeks",
+                "CourseStatus": "Completed",
+                "instructor": "Surbhi"
+            }
+        ]
+    }
+]
+
+

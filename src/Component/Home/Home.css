@@ -1,0 +1,22 @@
+.btn1{
+    margin: 2vmax;
+    padding: 1vmax 1.5vmax;
+    background: none;
+    outline: none;
+    border: 2px solid black;
+    transition: all 0.5s;
+    width: 20%;
+}
+
+.btn1-Course{
+    background-color: black;
+    color: white;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.5);
+}
+
+.btn1-Student{
+    background-color: white;
+    color: black;
+    border-color: white;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.5);
+}
